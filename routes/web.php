@@ -21,3 +21,8 @@ Route::get('/', function () {
 Route::get('/index/index', function(){
     return view('index.index');
 })->name('index.index');
+
+//ruta para el login del sistema
+Route::get('/index/login', function(){
+    return view('index.login');
+})->name('index.login');

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +39,7 @@
                 <h2>¡¡Contactanos!!</h2>
                 <p>Visita nuestras redes sociales para realizar tu pedido.</p>
                 <p>O en el domicilio.</p>
-                <button><i class="fa-brands fa-facebook"><a href="https://www.facebook.com/profile.php?id=100089738996503"></a></i></button>
+                <a href="https://www.facebook.com/profile.php?id=100089738996503"><i class="fa-brands fa-facebook"></i></a>
             </div>
         </div>
     </div>
